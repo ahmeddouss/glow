@@ -103,12 +103,13 @@ child	Your custom widget inside the glow frame
 📸 Preview
 
 Outer Glow Example
-![image](https://github.com/user-attachments/assets/bb6465d3-4626-4047-8c68-b48045809810)
+
+![z](https://github.com/user-attachments/assets/6e1c72a4-b2c1-4a9a-9014-4c48781dd4a3)
 
 
 Inner Glow Example
 
-![z](https://github.com/user-attachments/assets/6e1c72a4-b2c1-4a9a-9014-4c48781dd4a3)
+![image](https://github.com/user-attachments/assets/bb6465d3-4626-4047-8c68-b48045809810)
 
 
 ⸻
